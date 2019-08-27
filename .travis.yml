@@ -1,0 +1,6 @@
+language: julia
+
+os: freebsd
+
+script:
+  - ./show.sh
