@@ -1,9 +1,6 @@
-language: julia
+language: python
 
 os: freebsd
-
-# temporarily
-dist: freebsd
 
 script:
   - ./show.sh
